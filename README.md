@@ -30,14 +30,8 @@ yarn examples:start
 
 ## 分支说明
 
-`master` 为稳定分支，其他分支根据 [qiankun 实战系列教程](https://github.com/a1029563229/blogs) 划分：
+`master` 为稳定分支，`master`：稳定分支，可以直接作为 `qiankun-quick-start` 使用；
 
-  - `master`：稳定分支，可以直接作为 `qiankun-quick-start` 使用；
-  - `feature-inject-sub-apps`：主应用基座搭建、微应用接入方案；
-  - `feature-communication`：官方通信方案；
-  - `feature-communication-shared`：`Shared` 通信方案；
-
-大家可以根据自己的需求切换分支。
 
 ## 关于跨域
 
